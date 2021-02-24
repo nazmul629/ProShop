@@ -21,8 +21,8 @@ const products = [
     brand: 'Apple',
     category: 'Electronics',
     price: 599.99,
-    countInStock: 7,
-    rating: 4.0,
+    countInStock: 0,
+    rating: 3.5,
     numReviews: 8,
   },
   {
